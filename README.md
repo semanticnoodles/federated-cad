@@ -7,7 +7,7 @@ Example of federated repositories to extract collections as data
 
 ### Example of visualisation
 
-An example of [map visualisation](https://w.wiki/DVyD) using the Spanish Golden Age as a movement and the place of birth of the authors provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
+An example of [map visualisation](https://w.wiki/DVyD) using as a main repository Wikidata, the Spanish Golden Age as a movement and the place of birth of the authors provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
 
 ```
 
