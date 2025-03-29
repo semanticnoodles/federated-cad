@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the resources contained in this repository in your research, please cite as follows:"
+title: "Federated LOD Queries as CaD - Notebooks"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"  # Replace this with the actual DOI from Zenodo after uploading
+date-released: "2025-04-10"
+url: "https://github.com/hibernator11/federated-lod-queries"
+license: "license" # check
+authors:
+  - name: "Meltem Dişli"
+    affiliation: "Hacettepe University"
+    orcid: "https://orcid.org/0000-0001-7309-2637" 
+  - name: "Giulia Osti"
+    affiliation: "University College Dublin"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - name: "Richard L. Zijdeman"
+    affiliation: "International Institute of Social History & University of Stirling"
+    orcid: "https://orcid.org/0000-0003-3902-3720"
+  - name: "Gustavo Candela"
+    affiliation: "University of Alicante"
+    orcid: "https://orcid.org/0000-0001-6122-0777"
