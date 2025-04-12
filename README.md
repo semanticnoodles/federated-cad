@@ -16,7 +16,7 @@ Leveraging Wikidata, the SPARQL queries we present are designed to retrieve data
 
 This project contains several sample Jupyter Notebooks pertaining to:
 
-1.  **Query Building**, (4 examples) a query building workflow. Additionally [wikidata_map_viz](/Volumes/Research/federated-cad/notebooks/01-query-building/wikidata-map-viz.md) offers an example of exploratory query that can be run directly on the Wikidata SPARQL endpint, visualising the place of birth of the authors mapped as part of the Spanish Golden Age (`wd:Q530936`) provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
+1.  **Query Building**, (4 examples) a query building workflow. Additionally [wikidata_map_viz](notebooks/01-query-building/wikidata-map-viz.md) offers an example of exploratory query that can be run directly on the Wikidata SPARQL endpint, visualising the place of birth of the authors mapped as part of the Spanish Golden Age (`wd:Q530936`) provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
 2.  **Single Autors Multiple Works** (2 examples) <!-- add explanation of the example -->
 3.  **Multiple Authors Multiple Works** (1 example) <!-- add explanation of the example --> 
 
