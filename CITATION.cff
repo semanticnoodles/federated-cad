@@ -1,15 +1,25 @@
 cff-version: 1.2.0
 message: "If you use the resources contained in this repository in your research, please cite as follows:"
 title: "Federated LOD Queries as CaD - Notebooks"
+type: "misc" # check if this is correct
+abstract: "This repository contains Jupyter notebooks that demonstrate the use of the Federated LOD Queries as CaD (Computational and Data) framework. The framework allows for federated queries across multiple Linked Open Data (LOD) sources, enabling researchers to access and analyze data from various domains in a unified manner."
+keywords:
+  - "Federated Queries"
+  - "Linked Open Data"
+  - "Collections as Data"
+  - "Libraries"
+  - "WikiData"
+  - "SPARQL endpoints"
+  - "Jupyter Notebooks"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"  # Replace this with the actual DOI from Zenodo after uploading
+doi: "10.5281/zenodo.XXXXXXX" # Replace this with the actual DOI from Zenodo after uploading
 date-released: "2025-04-10"
 url: "https://github.com/hibernator11/federated-lod-queries"
-license: "license" # check
+license: "CC-BY-4.0" # Review
 authors:
   - name: "Meltem Dişli"
     affiliation: "Hacettepe University"
-    orcid: "https://orcid.org/0000-0001-7309-2637" 
+    orcid: "https://orcid.org/0000-0001-7309-2637"
   - name: "Giulia Osti"
     affiliation: "University College Dublin"
     orcid: "https://orcid.org/0000-0000-0000-0000"
