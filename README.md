@@ -1,6 +1,38 @@
 # Creating Collections as Data Using Federated Queries
 
-This repository provides a series of **Jupyter notebooks** designed for performing **federated queries** across **Wikidata** and other **linked open data (LOD)** endpoints, with a focus on querying bibliographic and author-related data. These notebooks support our paper _[Insert working title here]_ and aim to present reproducible examples of query design strategies other than structured real-world use  in the digital humanities and library science domains.
+![From LOD to CaD - banner](gh-banner.jpg)
+
+This repository provides a series of **Jupyter notebooks** designed for performing **federated queries** across **Wikidata** and other **linked open data (LOD)** endpoints, with a focus on querying bibliographic and author-related data. 
+
+These notebooks support our paper *From Linked Open Data to Collections as Data: 
+A Reproducible Framework Using Federated Queries* and aim to present reproducible examples of query design strategies other than structured real-world use in library and information studies, digital humanities and other domains.
+
+## How to Cite This Work
+We recommend you to cite the paper the notebooks are supporting, as well as the repository as a whole. The citation for the paper is:
+
+> Meltem Dişli, Giulia Osti, Richard L. Zijdeman, & Gustavo Candela. (2025). From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries. *Journal*, Volume(Issue), Page range. DOI
+
+While the citation for the repository is available in the [CITATION.cff](CITATION.cff) file. You can also use the following BibTeX entry:
+
+```bibtex
+@misc{federated-cad,
+ @misc{Meltem_Disli_and_Giulia_Osti_and_Richard_L_Zijdeman_and_Gustavo_Candela_Federated_LOD_Queries_2025,
+author = {{Meltem Dişli} and {Giulia Osti} and {Richard L. Zijdeman} and {Gustavo Candela}},
+doi = {10.5281/zenodo.XXXXXXX},
+month = apr,
+title = {{Federated LOD Queries as CaD - Notebooks}},
+url = {https://github.com/hibernator11/federated-lod-queries},
+year = {2025}
+}  
+```
+
+## Materials in this Repository
+
+This project contains several sample Jupyter Notebooks pertaining to:
+
+1.  **Query Building**, (4 examples) a query building workflow. Additionally [wikidata_map_viz](notebooks/01-query-building/wikidata-map-viz.md) offers an example of exploratory query that can be run directly on the Wikidata SPARQL endpint, visualising the place of birth of the authors mapped as part of the Spanish Golden Age (`wd:Q530936`) provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
+2.  **Single Autors Multiple Works** (2 examples) <!-- add explanation of the example -->
+3.  **Multiple Authors Multiple Works** (1 example) <!-- add explanation of the example --> 
 
 ### LOD Endpoints on Use
 
@@ -12,15 +44,7 @@ Leveraging Wikidata, the SPARQL queries we present are designed to retrieve data
 
 \- `BVMC`: **Biblioteca Virtual Miguel de Cervantes**, the Miguel de Cervantes Virtual Library. <!-- add link to BVMC SPARQL endpoint -->
 
-## Materials in this Repository
-
-This project contains several sample Jupyter Notebooks pertaining to:
-
-1.  **Query Building**, (4 examples) a query building workflow. Additionally [wikidata_map_viz](notebooks/01-query-building/wikidata-map-viz.md) offers an example of exploratory query that can be run directly on the Wikidata SPARQL endpint, visualising the place of birth of the authors mapped as part of the Spanish Golden Age (`wd:Q530936`) provided by repositories National Library of Spain, the National Library of France and Biblioteca Virtual Miguel de Cervantes. 
-2.  **Single Autors Multiple Works** (2 examples) <!-- add explanation of the example -->
-3.  **Multiple Authors Multiple Works** (1 example) <!-- add explanation of the example --> 
-
-### Running the Notebooks with Binder
+## Running the Notebooks with Binder
 
 This project includes example Jupyter notebooks that you can run directly in your browser using [Binder](https://mybinder.org/). Click the **Launch Binder** button below to start a live session:
 
@@ -28,7 +52,7 @@ This project includes example Jupyter notebooks that you can run directly in you
 
 Once Binder finishes loading you will see a file browser on the left-hand side that will allow you to navigate all the notebooks contained in this repository.
 
-#### Tips for Using the Notebooks
+### Tips for Using the Notebooks
 
 -  To run all cells at once: click **“Cell” > “Run All”** from the top menu.
 -  To step through cell-by-cell: use the ▶️ **Run** button at the top or next to each cell.
