@@ -30,21 +30,24 @@ year = {2025}
 
 ## Materials in this Repository
 
-This project contains several sample Jupyter Notebooks pertaining to:
+The repository is organized into the following sections:
 
-1.  **Query Building**, (4 examples) a query building workflow. [Wikidata_map_viz](notebooks/01-query-building/wikidata-map-viz.md) offers an example of exploratory query that can be run directly on the Wikidata SPARQL endpint, visualising the place of birth of the authors mapped as part of the Spanish Golden Age (`wd:Q530936`). 
-2.  **Single Autors Multiple Works** (2 examples) <!-- add explanation of the example -->
-3.  **Multiple Authors Multiple Works** (1 example) <!-- add explanation of the example --> 
+- **Query Building**:  
+  - *4 examples* showcasing a query-building workflow for three different endpoints:
+    - [Biblioteca Nacional de España (BNE) Query Building ](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/01-query-building/LOD-BNE-Federated-Query.ipynb)
+    - [Bibliothèque nationale de France (BNF) Query Building](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/01-query-building/LOD-BNF-Federated-Query.ipynb)
+    - [Biblioteca Virtual Miguel de Cervantes (BVMC) Query Building](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/01-query-building/LOD-BVMC-Federated-Query.ipynb)
+    - [Wikidata_map_viz](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/01-query-building/wikidata-map-viz.md), an exploratory query visualizing authors' places of birth from the Spanish Golden Age (wd:Q530936).
 
-### LOD Endpoints on Use
+- **Single Author, Multiple Works**:  
+  - *2 examples* focusing on retrieving multiple works by a single author:
+    - [Jorge Juan y Santacilia](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/02-single-author/LOD-JorgeJuan-Federated-CAD.ipynb)
+    - [Maria Zayas y Sotomayor](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/02-single-author/LOD-MariaZayas-Federated-CAD.ipynb)
 
-Leveraging Wikidata, the SPARQL queries we present are designed to retrieve data from the following endpoints:
-
-\- `BNE`: **Biblioteca Nacional de España**, the Spanish National Library (http://datos.bne.es/sparql). <!-- add link to BNE SPARQL endpoint -->
-
-\- `BNF`: **Bibliothèque nationale de France**, the National Library of France (https://data.bnf.fr/sparql). <!-- add link to BNF SPARQL endpoint -->
-
-\- `BVMC`: **Biblioteca Virtual Miguel de Cervantes**, the Miguel de Cervantes Virtual Library (https://data.cervantesvirtual.com/sparql). <!-- add link to BVMC SPARQL endpoint -->
+- **Multiple Authors, Multiple Works**:  
+  - *1 example* demonstrating queries involving multiple authors and their works, 
+    - [Spanish Golden Age](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/03-movement-multiple-authors/LOD-SpanishGoldenAge-Federated-CAD.ipynb)
+- 
 
 ## Running the Notebooks with Binder
 
@@ -59,6 +62,15 @@ Once Binder finishes loading you will see a file browser on the left-hand side t
 -  To run all cells at once: click **“Cell” > “Run All”** from the top menu.
 -  To step through cell-by-cell: use the ▶️ **Run** button at the top or next to each cell.
 -  Feel free to **edit** code or markdown cells and re-run them — your changes are temporary and will not be saved once the session ends or times out (will not affect the repository structure).
+
+## LOD Endpoints on Use
+
+The SPARQL queries leverage data from the following endpoints:
+
+- **Wikidata**: [https://query.wikidata.org/](https://query.wikidata.org/)
+- **Biblioteca Nacional de España (BNE)**: [http://datos.bne.es/sparql](http://datos.bne.es/sparql)
+- **Bibliothèque nationale de France (BNF)**: [https://data.bnf.fr/sparql](https://data.bnf.fr/sparql)
+- **Biblioteca Virtual Miguel de Cervantes (BVMC)**: [https://data.cervantesvirtual.com/sparql](https://data.cervantesvirtual.com/sparql)
 
 ## License
 
