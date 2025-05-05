@@ -1,36 +1,26 @@
 cff-version: 1.2.0
-title: Federated LOD Queries as CaD - Notebooks
-message: >-
-  If you use the resources contained in this repository in
-  your research, please cite as follows:
+title: "Federated LOD Queries as CaD - Notebooks"
+message: "If you use the resources contained in this repository in your research, please cite as follows:"
 type: dataset
 authors:
   - given-names: Meltem
     family-names: Dişli
-    affiliation: Hacettepe University
-    orcid: 'https://orcid.org/0000-0001-7309-2637'
+    affiliation: "Hacettepe University"
+    orcid: "https://orcid.org/0000-0001-7309-2637"
   - given-names: Giulia
     family-names: Osti
-    affiliation: University College Dublin
-    orcid: 'https://orcid.org/0000-0003-3179-6980'
+    affiliation: "University College Dublin"
+    orcid: "https://orcid.org/0000-0003-3179-6980"
   - given-names: Richard J.
     family-names: Zijdeman
-    affiliation: >-
-      International Institute of Social History & University
-      of Stirling
-    orcid: 'https://orcid.org/0000-0003-3902-3720'
+    affiliation: "International Institute of Social History & University of Stirling"
+    orcid: "https://orcid.org/0000-0003-3902-3720"
   - given-names: Gustavo
     family-names: Candela
-    affiliation: University of Alicante
-    orcid: 'https://orcid.org/0000-0001-6122-0777'
-repository-code: 'https://github.com/semanticnoodles/federated-cad/tree/main'
-abstract: >-
-  This repository contains Jupyter notebooks that
-  demonstrate the use of the Federated LOD Queries as CaD
-  (Computational and Data) framework. The framework allows
-  for federated queries across multiple Linked Open Data
-  (LOD) sources, enabling researchers to access and analyze
-  data from various domains in a unified manner.
+    affiliation: "University of Alicante"
+    orcid: "https://orcid.org/0000-0001-6122-0777"
+repository-code: "https://github.com/semanticnoodles/federated-cad"
+abstract: "This repository contains Jupyter notebooks that demonstrate the use of the Federated LOD Queries as CaD (Computational and Data) framework. The framework allows for federated queries across multiple Linked Open Data (LOD) sources, enabling researchers to access and analyze data from various domains in a unified manner."
 keywords:
   - Federated Queries
   - Linked Open Data
@@ -40,7 +30,6 @@ keywords:
   - SPARQL endpoints
   - Jupyter Notebooks
 license: CC-BY-4.0
-commit: '6201385'
-version: 1.0.0
-date-released: '2025-04-10'
+version: 0.1.1
+date-released: "2025-04-10"
 # This CITATION.cff file was parsed with cffinit.
