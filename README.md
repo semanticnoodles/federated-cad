@@ -18,7 +18,6 @@ While the citation for the repository is available in the [CITATION.cff](CITATIO
 
 ```bibtex
 @misc{federated-cad,
- @misc{Meltem_Disli_and_Giulia_Osti_and_Richard_L_Zijdeman_and_Gustavo_Candela_Federated_LOD_Queries_2025,
 author = {{Meltem Dişli} and {Giulia Osti} and {Richard L. Zijdeman} and {Gustavo Candela}},
 doi = {10.5281/zenodo.XXXXXXX},
 month = apr,
@@ -77,6 +76,4 @@ The SPARQL queries leverage data from the following endpoints:
 [![Licence Creative Commons](https://camo.githubusercontent.com/87c07f8d6b43e5c3a22e2cc80e0e245c5c47a4f370da2c3465a00a4d55a0239a/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f342e302f38307831352e706e67)](http://creativecommons.org/licenses/by/4.0/)
 Content is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
 
-## Essential References
-
-If we wish to add some essential refs here.<!-- add references to the paper, the notebooks, and any other relevant resources -->
+<!-- ## Essential References / add references to the paper, the notebooks, and any other relevant resources -->
