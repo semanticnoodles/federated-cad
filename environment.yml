@@ -1,0 +1,18 @@
+name: federated-cad
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2
+  - pandas
+  - sparqlwrapper
+  - aiohttp
+  - nest-asyncio
+  - tqdm
+  - jupyter
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - rdflib
