@@ -14,18 +14,7 @@ We recommend you to cite the paper the notebooks are supporting, as well as the 
 
 > Meltem Dişli, Giulia Osti, Richard L. Zijdeman, & Gustavo Candela. (2025). From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries. *Journal*, Volume(Issue), Page range. DOI
 
-While the citation for the repository is available in the [CITATION.cff](CITATION.cff) file. You can also use the following BibTeX entry:
-
-```bibtex
-@misc{federated-cad,
-author = {{Meltem Dişli} and {Giulia Osti} and {Richard L. Zijdeman} and {Gustavo Candela}},
-doi = {10.5281/zenodo.XXXXXXX},
-month = apr,
-title = {{Federated LOD Queries as CaD - Notebooks}},
-url = {https://github.com/hibernator11/federated-lod-queries},
-year = {2025}
-}  
-```
+The citation for the repository is available in the [CITATION.cff](CITATION.cff) file.
 
 ## Materials in this Repository
 
@@ -46,7 +35,6 @@ The repository is organized into the following sections:
 - **Multiple Authors, Multiple Works**:  
   - *1 example* demonstrating queries involving multiple authors and their works, 
     - [Spanish Golden Age](https://github.com/semanticnoodles/federated-cad/blob/main/notebooks/03-movement-multiple-authors/LOD-SpanishGoldenAge-Federated-CAD.ipynb)
-- 
 
 ## Running the Notebooks with Binder
 
