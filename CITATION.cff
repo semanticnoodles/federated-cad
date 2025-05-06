@@ -20,7 +20,7 @@ authors:
     affiliation: "International Institute of Social History & University of Stirling"
     orcid: "https://orcid.org/0000-0003-3902-3720"
 repository-code: "https://github.com/semanticnoodles/federated-cad"
-abstract: "This repository contains Jupyter notebooks that demonstrate the use of the Federated LOD Queries as CaD (Computational and Data) framework. The framework allows for federated queries across multiple Linked Open Data (LOD) sources, enabling researchers to access and analyze data from various domains in a unified manner."
+abstract: "This repository contains Jupyter notebooks that demonstrate the use of the Federated Linked Open Data Queries to extract Collections as Data (support materials). These notebooks support our draft paper From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries and aim to present reproducible examples of query design strategies other than structured real-world use in library and information studies, digital humanities and other domains."
 keywords:
   - Federated Queries
   - Linked Open Data
