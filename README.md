@@ -14,7 +14,7 @@ We recommend you to cite the paper the notebooks are supporting, as well as the 
 
 > Meltem Dişli, Giulia Osti, Gustavo Candela & Richard L. Zijdeman (2025). From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries. *Journal*, Volume(Issue), Page range. DOI
 
-You can cite this repository by using the [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15346715.svg)](https://doi.org/10.5281/zenodo.15346715). This DOI represents all releases, and will always resolve to the latest one.
+You can cite this repository by using the [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15346714.svg)](https://doi.org/10.5281/zenodo.15346714). This DOI represents all releases, and will always resolve to the latest one.
 
 ## Materials in this Repository
 
