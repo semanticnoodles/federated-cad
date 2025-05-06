@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Federated LOD Queries as CaD - Notebooks"
-message: "If you use the resources contained in this repository in your research, please cite as follows:"
+message: "Supporting materials"
 type: dataset
 authors:
   - given-names: Meltem
@@ -11,14 +11,14 @@ authors:
     family-names: Osti
     affiliation: "University College Dublin"
     orcid: "https://orcid.org/0000-0003-3179-6980"
-  - given-names: Richard J.
-    family-names: Zijdeman
-    affiliation: "International Institute of Social History & University of Stirling"
-    orcid: "https://orcid.org/0000-0003-3902-3720"
   - given-names: Gustavo
     family-names: Candela
     affiliation: "University of Alicante"
     orcid: "https://orcid.org/0000-0001-6122-0777"
+  - given-names: Richard J.
+    family-names: Zijdeman
+    affiliation: "International Institute of Social History & University of Stirling"
+    orcid: "https://orcid.org/0000-0003-3902-3720"
 repository-code: "https://github.com/semanticnoodles/federated-cad"
 abstract: "This repository contains Jupyter notebooks that demonstrate the use of the Federated LOD Queries as CaD (Computational and Data) framework. The framework allows for federated queries across multiple Linked Open Data (LOD) sources, enabling researchers to access and analyze data from various domains in a unified manner."
 keywords:
@@ -30,6 +30,6 @@ keywords:
   - SPARQL endpoints
   - Jupyter Notebooks
 license: CC-BY-4.0
-version: 0.1.1
+version: 0.1.2
 date-released: "2025-04-10"
 # This CITATION.cff file was parsed with cffinit.
